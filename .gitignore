@@ -1,1 +1,5 @@
+# Python cache ignore
 __pycache__/
+
+# DS ignore
+.DS_Store
