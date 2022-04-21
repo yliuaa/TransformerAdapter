@@ -17,8 +17,9 @@ class DataReader:
 
     def get_data(self):
         # import IPython; IPython.embed(); exit(1)
-        print("hello")
         return self.df['text'], self.df['intent']
+
+    
 
 
 if __name__ == '__main__':
